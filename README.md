@@ -16,5 +16,5 @@
 6. Program nakon što korisnik doda novu osobu sprema te podatke u datoteku “banka.txt”.
 7. Kada korisnik pokrene program učitavaju se svi podaci osoba iz datoteke “banka.txt”.
 8. Korisnik prema unesenom broju računa može mijenjati saldo osobe.
-9. Izmjenjeni podaci moraju biti sinkronizirani s datotekom “banka.txt”.
+9. Izmijenjeni podaci moraju biti sinkronizirani s datotekom “banka.txt”.
 10. Korisniku se mogu ispisati svi podaci uzlazno sortirani po prezimenu i imenu osobe.
