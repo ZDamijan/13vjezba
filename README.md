@@ -1,5 +1,4 @@
 # Vježba - polja
-## Tehmeha 13. vježba
 - na početku pomoću linka na stranici “tehmeha” prijavite se na “GitHub Classroom Assignment” i tako će te kreirati novi repozitorij
 - pomoću GitHub Desktop-a napravite "clone" tog repozitorija na svoje računalo i u datoteci “mini-banka.cpp” napišite C++ program koji ima niže navedene funkcionalnosti 
 - nakon svake implementirane funkcionalnosti napraviti “commit” (u opisu prepisati tekst pod odgovarajućim brojem) 
